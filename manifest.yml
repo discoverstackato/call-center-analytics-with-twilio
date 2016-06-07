@@ -12,5 +12,5 @@ applications:
     HODSERVICESNAME : 'hod-demo'
   memory: 128M
   services:
-    ${name}-mongo-db:
-       type: mongodb
+    - mongo-demo
+    - hod-demo
