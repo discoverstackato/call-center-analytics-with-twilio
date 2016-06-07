@@ -13,4 +13,4 @@ applications:
   memory: 128M
   services:
     - mongo-demo
-    - hod-demo
+    - callcenteranalytics-HOD
