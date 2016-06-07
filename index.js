@@ -8,7 +8,7 @@ if (env == 'dev') {
 
 } else {
   // var twiMLUrl = path.join(__dirname, 'twilioVoice')
-  var twiMLUrl = "https://callcenteranalytics.54.208.251.235.nip.io/twilioVoice"
+  var twiMLUrl = "http://callcenteranalytics.54.208.251.235.nip.io/twilioVoice"
 }
 
 //debugger
